@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QuanPc\\source\\repos\\Model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\views\\cmqmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\views\\cmqmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\views\\cmqmember\\getdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\views\\cmqmember\\getdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\views\\cmqmember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\views\\cmqmember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\views\\cmqmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\views\\cmqmember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\controllers\\cmqmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\controllers\\cmqmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\models\\cmqmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\models\\cmqmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|c:\\users\\quanpc\\source\\repos\\model\\model\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4923625-668A-95CB-F92E-EAD08FFFA065}|Model\\Model.csproj|solutionrelative:model\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\CMQmember\\Create.cshtml",
+              "RelativeDocumentMoniker": "Model\\Views\\CMQmember\\Create.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\CMQmember\\Create.cshtml",
+              "RelativeToolTip": "Model\\Views\\CMQmember\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T14:15:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Model\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\appsettings.Development.json",
+              "RelativeToolTip": "Model\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T14:04:46.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CMQMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Controllers\\CMQMemberController.cs",
+              "RelativeDocumentMoniker": "Model\\Controllers\\CMQMemberController.cs",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Controllers\\CMQMemberController.cs",
+              "RelativeToolTip": "Model\\Controllers\\CMQMemberController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAA9wHcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T09:01:37.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\CMQmember\\GetDetail.cshtml",
+              "RelativeDocumentMoniker": "Model\\Views\\CMQmember\\GetDetail.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\CMQmember\\GetDetail.cshtml",
+              "RelativeToolTip": "Model\\Views\\CMQmember\\GetDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T14:24:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMQmember.cs",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Models\\CMQmember.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\CMQmember.cs",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Models\\CMQmember.cs",
+              "RelativeToolTip": "Model\\Models\\CMQmember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T08:57:26.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Model\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Model\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T08:50:48.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Model\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Model\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T08:51:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\CMQmember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Model\\Views\\CMQmember\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\CMQmember\\Edit.cshtml",
+              "RelativeToolTip": "Model\\Views\\CMQmember\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T14:56:25.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\CMQmember\\Index.cshtml",
+              "RelativeDocumentMoniker": "Model\\Views\\CMQmember\\Index.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\CMQmember\\Index.cshtml",
+              "RelativeToolTip": "Model\\Views\\CMQmember\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T14:18:31.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Model\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Model\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T14:05:55.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Model\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Model\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T08:54:35.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Model\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Model\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T08:54:38.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Model\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\Model\\Model\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Model\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T08:54:43.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

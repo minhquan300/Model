@@ -1,0 +1,48 @@
+@model Model.Models.CMQmember
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>CMQmember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="CMQMemberUserName" class="control-label"></label>
+                <input asp-for="CMQMemberUserName" class="form-control" />
+                <span asp-validation-for="CMQMemberUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CMQMemberPassWord" class="control-label"></label>
+                <input asp-for="CMQMemberPassWord" class="form-control" />
+                <span asp-validation-for="CMQMemberPassWord" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CMQMemberEmail" class="control-label"></label>
+                <input asp-for="CMQMemberEmail" class="form-control" />
+                <span asp-validation-for="CMQMemberEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CMQMemberFullName" class="control-label"></label>
+                <input asp-for="CMQMemberFullName" class="form-control" />
+                <span asp-validation-for="CMQMemberFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

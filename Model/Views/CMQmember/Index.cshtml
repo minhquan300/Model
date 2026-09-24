@@ -1,0 +1,53 @@
+@model IEnumerable<Model.Models.CMQmember>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CMQMemberUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CMQMemberPassWord)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CMQMemberEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CMQMemberFullName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.CMQMemberUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.CMQMemberPassWord)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.CMQMemberEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.CMQMemberFullName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CMQMemberID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CMQMemberID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CMQMemberID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
