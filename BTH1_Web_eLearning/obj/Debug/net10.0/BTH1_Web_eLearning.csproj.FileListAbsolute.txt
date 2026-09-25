@@ -1,0 +1,199 @@
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\appsettings.Development.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\appsettings.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.staticwebassets.runtime.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.staticwebassets.endpoints.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.exe
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.deps.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.runtimeconfig.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.dll
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.pdb
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.AssemblyInfoInputs.cache
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.AssemblyInfo.cs
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.RazorAssemblyInfo.cache
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.RazorAssemblyInfo.cs
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\scopedcss\bundle\BTH1_Web_eLearning.styles.css
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\scopedcss\projectbundle\BTH1_Web_eLearning.bundle.scp.css
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\16pepwdeco-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\d8y9z2pswj-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\vy0mhn6ewv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\dzhzkyqekv-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\ckxv2b3yg7-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\jjzgmd3mcn-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\gf9hxatpbg-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\c2y9oep8rx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\hvkpatemvh-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\viy0j8edzi-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\btuy4209jj-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\cn9dv7t65u-{0}-ub07r2b239-ub07r2b239.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\k4znh16388-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\qinelrji70-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\40r96mp5yq-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\d6sje25ukt-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\vgx3r04svu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\i8yd1u2360-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\874sl034od-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\qhe7w95bao-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\6i08g9uvp1-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\bs01jtx7r3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\nfjmnp7bhg-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\b7unh8i10o-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\6iayzhr9kv-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\gcsb0o0z4a-{0}-06098lyss8-06098lyss8.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\nwq2cle8gu-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\3wga0myd6w-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\57nvysjvzp-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\xb9l4khmxf-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\6xe5y87v4o-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\80b1d8uu0t-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\lkur8z7167-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\xwsrzsc4n2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\bvt0520rbx-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\dcxcprl95h-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\8vquum6hhb-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\1uenfk7rl4-{0}-493y06b0oq-493y06b0oq.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\u0ct760a6e-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\69sscibsw5-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\d6vtj6rlxr-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\or106dprid-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\eymaimm2sr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\4dpjrgf1m4-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\jjrkdzccui-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\lrykfni1q8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\mix19r4is5-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\2cc6uzddp7-{0}-47otxtyo56-47otxtyo56.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\lyxj5lqt4h-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\9k2papcid0-{0}-356vix0kms-356vix0kms.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\wrz2jww3ye-{0}-83jwlth58m-83jwlth58m.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\hrnal4qyey-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\spb1dv9plo-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\y18rz2hy7o-{0}-ag7o75518u-ag7o75518u.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\bxdoeygd9u-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\b9c8au89yk-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\unttp086b5-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\di4a488wn2-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\2x3ex58ha3-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\jnyy55qck2-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\95kngnfhfi-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\ps3oo2n56t-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\cft5doz3t7-{0}-pet7lpoz68-pet7lpoz68.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\fks1w4dquc-{0}-pet7lpoz68-pet7lpoz68.gz
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.build.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.development.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\swae.build.ex.cache
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.dll
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\refint\BTH1_Web_eLearning.dll
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.pdb
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.genruntimeconfig.cache
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\ref\BTH1_Web_eLearning.dll
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.sourcelink.json
+D:\Project Visual Studio\BTH1_Web_eLearning\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web.A30A05B0.Up2Date
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\appsettings.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.staticwebassets.runtime.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.staticwebassets.endpoints.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.exe
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.deps.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.runtimeconfig.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.dll
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\bin\Debug\net10.0\BTH1_Web_eLearning.pdb
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.AssemblyInfoInputs.cache
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.AssemblyInfo.cs
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.csproj.CoreCompileInputs.cache
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.RazorAssemblyInfo.cache
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.RazorAssemblyInfo.cs
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\scopedcss\bundle\BTH1_Web_eLearning.styles.css
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\scopedcss\projectbundle\BTH1_Web_eLearning.bundle.scp.css
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\16pepwdeco-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\d8y9z2pswj-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\vy0mhn6ewv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\dzhzkyqekv-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\ckxv2b3yg7-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\jjzgmd3mcn-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\gf9hxatpbg-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\c2y9oep8rx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\hvkpatemvh-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\viy0j8edzi-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\btuy4209jj-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\cn9dv7t65u-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\k4znh16388-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\qinelrji70-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\40r96mp5yq-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\d6sje25ukt-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\vgx3r04svu-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\i8yd1u2360-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\874sl034od-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\qhe7w95bao-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\6i08g9uvp1-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\bs01jtx7r3-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\nfjmnp7bhg-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\b7unh8i10o-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\6iayzhr9kv-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\gcsb0o0z4a-{0}-06098lyss8-06098lyss8.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\nwq2cle8gu-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\3wga0myd6w-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\57nvysjvzp-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\xb9l4khmxf-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\6xe5y87v4o-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\80b1d8uu0t-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\lkur8z7167-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\xwsrzsc4n2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\bvt0520rbx-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\dcxcprl95h-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\8vquum6hhb-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\1uenfk7rl4-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\u0ct760a6e-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\69sscibsw5-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\d6vtj6rlxr-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\or106dprid-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\eymaimm2sr-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\4dpjrgf1m4-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\jjrkdzccui-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\lrykfni1q8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\mix19r4is5-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\2cc6uzddp7-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\lyxj5lqt4h-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\9k2papcid0-{0}-356vix0kms-356vix0kms.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\wrz2jww3ye-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\hrnal4qyey-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\spb1dv9plo-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\y18rz2hy7o-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\bxdoeygd9u-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\b9c8au89yk-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\unttp086b5-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\di4a488wn2-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\2x3ex58ha3-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\jnyy55qck2-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\95kngnfhfi-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\ps3oo2n56t-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\cft5doz3t7-{0}-pet7lpoz68-pet7lpoz68.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\compressed\fks1w4dquc-{0}-pet7lpoz68-pet7lpoz68.gz
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.dll
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\refint\BTH1_Web_eLearning.dll
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.pdb
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web_eLearning.genruntimeconfig.cache
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\ref\BTH1_Web_eLearning.dll
+C:\Users\QuanPc\Downloads\BTH1_Web_eLearning\obj\Debug\net10.0\BTH1_Web.A30A05B0.Up2Date
