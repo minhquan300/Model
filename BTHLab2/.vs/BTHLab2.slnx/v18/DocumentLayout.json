@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D33BE0-2A44-40EF-02AB-A838C8505CA2}|BTHLab2\\BTHLab2.csproj|c:\\users\\quanpc\\source\\repos\\bthlab2\\bthlab2\\controllers\\cmqaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D33BE0-2A44-40EF-02AB-A838C8505CA2}|BTHLab2\\BTHLab2.csproj|solutionrelative:bthlab2\\controllers\\cmqaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D33BE0-2A44-40EF-02AB-A838C8505CA2}|BTHLab2\\BTHLab2.csproj|c:\\users\\quanpc\\source\\repos\\bthlab2\\bthlab2\\models\\cmqaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D33BE0-2A44-40EF-02AB-A838C8505CA2}|BTHLab2\\BTHLab2.csproj|solutionrelative:bthlab2\\models\\cmqaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D33BE0-2A44-40EF-02AB-A838C8505CA2}|BTHLab2\\BTHLab2.csproj|c:\\users\\quanpc\\source\\repos\\bthlab2\\bthlab2\\views\\cmqaccount\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33D33BE0-2A44-40EF-02AB-A838C8505CA2}|BTHLab2\\BTHLab2.csproj|solutionrelative:bthlab2\\views\\cmqaccount\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D33BE0-2A44-40EF-02AB-A838C8505CA2}|BTHLab2\\BTHLab2.csproj|c:\\users\\quanpc\\source\\repos\\bthlab2\\bthlab2\\views\\cmqaccount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33D33BE0-2A44-40EF-02AB-A838C8505CA2}|BTHLab2\\BTHLab2.csproj|solutionrelative:bthlab2\\views\\cmqaccount\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\BTHLab2\\Views\\CmqAccount\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTHLab2\\Views\\CmqAccount\\Create.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\BTHLab2\\Views\\CmqAccount\\Create.cshtml",
+              "RelativeToolTip": "BTHLab2\\Views\\CmqAccount\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T06:24:45.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\BTHLab2\\Views\\CmqAccount\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTHLab2\\Views\\CmqAccount\\Index.cshtml",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\BTHLab2\\Views\\CmqAccount\\Index.cshtml",
+              "RelativeToolTip": "BTHLab2\\Views\\CmqAccount\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvy0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T13:20:00.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cmqAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\BTHLab2\\Controllers\\cmqAccountController.cs",
+              "RelativeDocumentMoniker": "BTHLab2\\Controllers\\cmqAccountController.cs",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\BTHLab2\\Controllers\\cmqAccountController.cs",
+              "RelativeToolTip": "BTHLab2\\Controllers\\cmqAccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:18:44.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CmqAccount.cs",
+              "DocumentMoniker": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\BTHLab2\\Models\\CmqAccount.cs",
+              "RelativeDocumentMoniker": "BTHLab2\\Models\\CmqAccount.cs",
+              "ToolTip": "C:\\Users\\QuanPc\\source\\repos\\BTHLab2\\BTHLab2\\Models\\CmqAccount.cs",
+              "RelativeToolTip": "BTHLab2\\Models\\CmqAccount.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:45:25.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
