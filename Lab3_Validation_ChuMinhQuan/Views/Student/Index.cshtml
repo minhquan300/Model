@@ -1,0 +1,47 @@
+@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "Danh sách sinh viên";
+}
+
+<div class="page-card">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2>Danh sách sinh viên</h2>
+        <a asp-action="Create" class="btn btn-primary">+ Thêm sinh viên</a>
+    </div>
+
+    @if (TempData["Success"] is not null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped align-middle">
+            <thead class="table-primary">
+                <tr>
+                    <th>Mã</th>
+                    <th>Họ và tên</th>
+                    <th>Email</th>
+                    <th>Ngành</th>
+                    <th>Giới tính</th>
+                    <th>Ngày sinh</th>
+                    <th>Điểm</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+                    <td>@s.Email</td>
+                    <td>@s.Branch</td>
+                    <td>@s.Gender</td>
+                    <td>@s.DateOfBirth?.ToString("dd/MM/yyyy")</td>
+                    <td>@s.Score</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+    <p class="text-muted mb-0">Dữ liệu mẫu được lưu trong bộ nhớ, sẽ được làm mới khi khởi động lại ứng dụng.</p>
+</div>
